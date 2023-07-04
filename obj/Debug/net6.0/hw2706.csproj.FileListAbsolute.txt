@@ -1,0 +1,15 @@
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.AssemblyInfo.cs
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\Домашка\hw2706\bin\Debug\net6.0\hw2706.exe
+C:\Users\Game\Desktop\Домашка\hw2706\bin\Debug\net6.0\hw2706.deps.json
+C:\Users\Game\Desktop\Домашка\hw2706\bin\Debug\net6.0\hw2706.runtimeconfig.json
+C:\Users\Game\Desktop\Домашка\hw2706\bin\Debug\net6.0\hw2706.dll
+C:\Users\Game\Desktop\Домашка\hw2706\bin\Debug\net6.0\hw2706.pdb
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.dll
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\refint\hw2706.dll
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.pdb
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\hw2706.genruntimeconfig.cache
+C:\Users\Game\Desktop\Домашка\hw2706\obj\Debug\net6.0\ref\hw2706.dll
